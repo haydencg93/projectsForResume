@@ -14,13 +14,5 @@ Hello! I'm **Hayden Gamble**, a dedicated **Computer Science and Computer Engine
 ## 💼 Experience
 I have been programming since high school, have completed numerous projects that highlight my skills and creativity, and have competed in 3 computer science competitions nationally. Below is a list of some of the projects I’ve worked on:
 
-## 🚀 Projects
-| Project Name | Description | Technologies Used | Folder Name |
-|--------------|-------------|-------------------|------|
-| *name* | *description* | *technologies* | *location* |
-| *name* | *description* | *technologies* | *location* |
-| *name* | *description* | *technologies* | *location* |
-| *name* | *description* | *technologies* | *location* |
-
 ## 📫 Contact Me
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/haydencg93/)
